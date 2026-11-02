@@ -1,0 +1,499 @@
+{
+  "source_archive": "ai-drama-master.7z",
+  "source_root": "ai-drama-master/backend/workspace",
+  "extraction_entries": 40926,
+  "extraction_files": 32985,
+  "copied_files": 98,
+  "files": [
+    {
+      "path": ".github/copilot-instructions.md",
+      "bytes": 299,
+      "sha256": "0903f518e8dcf7659553a9a91d083480c799a49863abddadc243e12bb558abbc"
+    },
+    {
+      "path": "AGENT.md",
+      "bytes": 10668,
+      "sha256": "486bed685d6322ad0ac2e2375fda6f852d7b9ed8652e2dc26928f55bf9ce4924"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 311,
+      "sha256": "7812dfdc078957ab91f46885cd317b82a91c3a1be11a96a0e3513dbe827d0ceb"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 215,
+      "sha256": "dd908a4beda684781cd657a5a1dd83f3cff825fefd6769e6d5b21e67a55672f7"
+    },
+    {
+      "path": "MIGRATION-MAP.md",
+      "bytes": 3297,
+      "sha256": "48b44d418786bcd61d6d4498040ad7a2bdd89904168c8f0192a58e3c90131718"
+    },
+    {
+      "path": "README-MIGRATION.md",
+      "bytes": 1683,
+      "sha256": "af14d512ca4ace55cbe9c6466caac306458de56e0c70b02d1ef6fc5055574010"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1879,
+      "sha256": "869134d3b7a89982034433603e220e2869ffaed8f7673e3554af00983a0f4971"
+    },
+    {
+      "path": "skills/extractor/SKILL.en.md",
+      "bytes": 5432,
+      "sha256": "bdaeed91894293a85bdb505123b9ef0e2bbc1bb474a59bddaa121f791ae196a9"
+    },
+    {
+      "path": "skills/extractor/SKILL.ja.md",
+      "bytes": 6385,
+      "sha256": "b73af18c72277c986da94a17fe0258b978d5d5c6fec57aeca1375c506e22d89b"
+    },
+    {
+      "path": "skills/extractor/SKILL.ko.md",
+      "bytes": 5877,
+      "sha256": "a90416071525420ef56861e23d72aac882c468ebbc1a6a16d426807e9a68afe6"
+    },
+    {
+      "path": "skills/extractor/SKILL.md",
+      "bytes": 4374,
+      "sha256": "034fc83ab43f4ff6010edff9b02b4820410752c55f4d1ad38f0bed746b6397e5"
+    },
+    {
+      "path": "skills/prompt-generator/character-prompt/SKILL.en.md",
+      "bytes": 4057,
+      "sha256": "8fedda7778c4d593639db43a5f445dddca2ad5e22b961ee3f216bdf925496cea"
+    },
+    {
+      "path": "skills/prompt-generator/character-prompt/SKILL.ja.md",
+      "bytes": 4544,
+      "sha256": "9a13acae60e37cc9d6e0d2c2810142f7362d7446c7613fca1b6593906d1e75e0"
+    },
+    {
+      "path": "skills/prompt-generator/character-prompt/SKILL.ko.md",
+      "bytes": 4461,
+      "sha256": "4f77a3ddd5fdf76fe52748de0f4dfd28d3692f8c0312a021fa844f2512b78ea3"
+    },
+    {
+      "path": "skills/prompt-generator/character-prompt/SKILL.md",
+      "bytes": 3235,
+      "sha256": "c455f8f62c653ec78da6d6196db8a142031ba0b3593b18b7d8f1b4c283e4a82b"
+    },
+    {
+      "path": "skills/prompt-generator/prop-prompt/SKILL.en.md",
+      "bytes": 3208,
+      "sha256": "7297f49d56f56c49ca2a57b10aaae4d2ba5337418d09f91804aa0cff5c7a6093"
+    },
+    {
+      "path": "skills/prompt-generator/prop-prompt/SKILL.ja.md",
+      "bytes": 3734,
+      "sha256": "a5dbfee3931ca0d4d99fad9a557808864704e2172f90b3c414de529a3fca34cc"
+    },
+    {
+      "path": "skills/prompt-generator/prop-prompt/SKILL.ko.md",
+      "bytes": 3583,
+      "sha256": "4362154ac5617274d10d6b97b9e036b490d377812a347e20b7864eeb823f2a6b"
+    },
+    {
+      "path": "skills/prompt-generator/prop-prompt/SKILL.md",
+      "bytes": 2642,
+      "sha256": "6494849db5282c1bc2cf0cf26cadd33d41eed2151218094d625bf5f78602de5d"
+    },
+    {
+      "path": "skills/prompt-generator/scene-prompt/SKILL.en.md",
+      "bytes": 4638,
+      "sha256": "140f710894bbea72653aca573e1ebfb6cfbb78530cb203d6141e6630c7d9ab04"
+    },
+    {
+      "path": "skills/prompt-generator/scene-prompt/SKILL.ja.md",
+      "bytes": 5546,
+      "sha256": "18e81e016aac1a764eebba6bf06233e6732680f7bb2cc44c195b1b69b0902305"
+    },
+    {
+      "path": "skills/prompt-generator/scene-prompt/SKILL.ko.md",
+      "bytes": 5001,
+      "sha256": "748f2070d688b4411280cf3f276cf229c15e7bc2ff34ed34fc0d920c5889d7c8"
+    },
+    {
+      "path": "skills/prompt-generator/scene-prompt/SKILL.md",
+      "bytes": 3758,
+      "sha256": "4d68ca6a1594040f6c41d018197c20c68c41a6b3689e2c21a5429b50588115c3"
+    },
+    {
+      "path": "skills/prompt-generator/video-prompt/SKILL.en.md",
+      "bytes": 5923,
+      "sha256": "4b579d40214dded6427e0757f2af89e6d5c572d50f16388ee25dac086284951b"
+    },
+    {
+      "path": "skills/prompt-generator/video-prompt/SKILL.ja.md",
+      "bytes": 7275,
+      "sha256": "a2150f135c64087dfc33f9e8f0d95c9c0d5f92d05b8e30580a9a0436e3acb209"
+    },
+    {
+      "path": "skills/prompt-generator/video-prompt/SKILL.ko.md",
+      "bytes": 6645,
+      "sha256": "28fc00d9e699a53d0cbb93435bc50d77492d6ecebd4cfe74ba49d33e31e1645e"
+    },
+    {
+      "path": "skills/prompt-generator/video-prompt/SKILL.md",
+      "bytes": 4586,
+      "sha256": "3edd42dcaeca201a3a5dacf5d226c6ba00c0dd14170d4f812c48ba05594000d9"
+    },
+    {
+      "path": "skills/script-rewriter/SKILL.en.md",
+      "bytes": 2348,
+      "sha256": "46943f78ed264462c19943ad63c2479ef91c57937d7662791435df6886989a4d"
+    },
+    {
+      "path": "skills/script-rewriter/SKILL.ja.md",
+      "bytes": 2827,
+      "sha256": "7547d4fa9831a69757d4b817837ba2e1e0141160dd744d273793ccd4d3d58179"
+    },
+    {
+      "path": "skills/script-rewriter/SKILL.ko.md",
+      "bytes": 2540,
+      "sha256": "226de3e6efb84c9ab383746c6bea302514a45bf515189a2dd3db3e5ab661e070"
+    },
+    {
+      "path": "skills/script-rewriter/SKILL.md",
+      "bytes": 1848,
+      "sha256": "a970313bac2b24e8f8a96cbbd57daabd0e9aa255b8b4e672da5587d2e9f31b80"
+    },
+    {
+      "path": "skills/storyboard/SKILL.en.md",
+      "bytes": 6080,
+      "sha256": "72f46c1e4423a7746da16af566554ecb5a6243e789bec741e887fd1f985bcbf4"
+    },
+    {
+      "path": "skills/storyboard/SKILL.ja.md",
+      "bytes": 7408,
+      "sha256": "0e2ed0f30dec15d9d406f1075f9d68004126a4a4f2024742d3aed0bf616adcb2"
+    },
+    {
+      "path": "skills/storyboard/SKILL.ko.md",
+      "bytes": 6699,
+      "sha256": "298a386321306d91af65b5b401a959d7133ba7d30c182f6da885e08affa8baeb"
+    },
+    {
+      "path": "skills/storyboard/SKILL.md",
+      "bytes": 4966,
+      "sha256": "06c59a947480254b87a844cc83e8bdd2da3a19ff351a2e9ed1ea4eea5afa82a0"
+    },
+    {
+      "path": "source-reference/prompts/extractor.en.md",
+      "bytes": 4798,
+      "sha256": "cf744b612e87542ead5c9ce6e967b5af85b7ba92cdb4dcd6ab91c2033a4c7aca"
+    },
+    {
+      "path": "source-reference/prompts/extractor.ja.md",
+      "bytes": 5953,
+      "sha256": "bbc456f91ea4df1b312a242b2b8951d6d9662eba714c98e9f39d045a932d34ca"
+    },
+    {
+      "path": "source-reference/prompts/extractor.ko.md",
+      "bytes": 5430,
+      "sha256": "6faa7dd048dc5e05e0c46ab924158d8c996ce26720895425bf9a2a587dcabc0c"
+    },
+    {
+      "path": "source-reference/prompts/extractor.md",
+      "bytes": 3845,
+      "sha256": "3dbb591f25fdb370f64951cdec6a43a76fd04068e1d389737b34f9f43c3ea1e5"
+    },
+    {
+      "path": "source-reference/prompts/prompt_generator.en.md",
+      "bytes": 3185,
+      "sha256": "ab86dfb546839852b4545e2f7a2db3a733c5a61c4239d341abd1a5c185ce1b8b"
+    },
+    {
+      "path": "source-reference/prompts/prompt_generator.ja.md",
+      "bytes": 3993,
+      "sha256": "3a0bf3623e115bc51c8ba01009941dedca2af7be86e568661dd7bd1a62a07dcf"
+    },
+    {
+      "path": "source-reference/prompts/prompt_generator.ko.md",
+      "bytes": 3695,
+      "sha256": "15e2d2fda5bdf56815c7d1eec35e6c45bafead3a9a85069d68f61cd0df4d850d"
+    },
+    {
+      "path": "source-reference/prompts/prompt_generator.md",
+      "bytes": 2660,
+      "sha256": "9f2c646fecfd48ca4d019d29ad9e20f8f13f7bdb603f22c7d2d8826c26fc363f"
+    },
+    {
+      "path": "source-reference/prompts/script_rewriter.en.md",
+      "bytes": 762,
+      "sha256": "19311311860c652f157804f864a029cf66ad4b8375fdd13239dbd2bd9ccd278f"
+    },
+    {
+      "path": "source-reference/prompts/script_rewriter.ja.md",
+      "bytes": 939,
+      "sha256": "e97c392c7a0114ff93c4c0a8c159df677e4e4b087109da4a919f49d480c853e1"
+    },
+    {
+      "path": "source-reference/prompts/script_rewriter.ko.md",
+      "bytes": 870,
+      "sha256": "ab7d67cdfb3d7d0b3f657c857630ed685419b4a88a188f2c5fa856abcba49818"
+    },
+    {
+      "path": "source-reference/prompts/script_rewriter.md",
+      "bytes": 651,
+      "sha256": "4d88450ffb1fdd843b575ae9628fb6cc49752a4ae623d8520e1a7b4ee82a2a17"
+    },
+    {
+      "path": "source-reference/prompts/storyboard_breaker.en.md",
+      "bytes": 5991,
+      "sha256": "4e4d1c30a9b3288026a0c9a410d0dccabc2743e0027b5807115173e729842cd0"
+    },
+    {
+      "path": "source-reference/prompts/storyboard_breaker.ja.md",
+      "bytes": 7424,
+      "sha256": "54668e9feb95a4ad608c64b4d5f79b711b4918201759aa1d4b7cad4668dba5de"
+    },
+    {
+      "path": "source-reference/prompts/storyboard_breaker.ko.md",
+      "bytes": 6994,
+      "sha256": "95cfb22ac519e687bcb4a38b94fb5ac7cebcabe6be069422062076a5419d74cc"
+    },
+    {
+      "path": "source-reference/prompts/storyboard_breaker.md",
+      "bytes": 4805,
+      "sha256": "751b0727399dd92fb28de0a28ab913b161782b0bd42f11820e2176e7b76f0ba6"
+    },
+    {
+      "path": "source-reference/skills/extractor/SKILL.en.md",
+      "bytes": 5432,
+      "sha256": "bdaeed91894293a85bdb505123b9ef0e2bbc1bb474a59bddaa121f791ae196a9"
+    },
+    {
+      "path": "source-reference/skills/extractor/SKILL.ja.md",
+      "bytes": 6385,
+      "sha256": "b73af18c72277c986da94a17fe0258b978d5d5c6fec57aeca1375c506e22d89b"
+    },
+    {
+      "path": "source-reference/skills/extractor/SKILL.ko.md",
+      "bytes": 5877,
+      "sha256": "a90416071525420ef56861e23d72aac882c468ebbc1a6a16d426807e9a68afe6"
+    },
+    {
+      "path": "source-reference/skills/extractor/SKILL.md",
+      "bytes": 4374,
+      "sha256": "034fc83ab43f4ff6010edff9b02b4820410752c55f4d1ad38f0bed746b6397e5"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/character-prompt/SKILL.en.md",
+      "bytes": 4057,
+      "sha256": "8fedda7778c4d593639db43a5f445dddca2ad5e22b961ee3f216bdf925496cea"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/character-prompt/SKILL.ja.md",
+      "bytes": 4544,
+      "sha256": "9a13acae60e37cc9d6e0d2c2810142f7362d7446c7613fca1b6593906d1e75e0"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/character-prompt/SKILL.ko.md",
+      "bytes": 4461,
+      "sha256": "4f77a3ddd5fdf76fe52748de0f4dfd28d3692f8c0312a021fa844f2512b78ea3"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/character-prompt/SKILL.md",
+      "bytes": 3235,
+      "sha256": "c455f8f62c653ec78da6d6196db8a142031ba0b3593b18b7d8f1b4c283e4a82b"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/prop-prompt/SKILL.en.md",
+      "bytes": 3208,
+      "sha256": "7297f49d56f56c49ca2a57b10aaae4d2ba5337418d09f91804aa0cff5c7a6093"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/prop-prompt/SKILL.ja.md",
+      "bytes": 3734,
+      "sha256": "a5dbfee3931ca0d4d99fad9a557808864704e2172f90b3c414de529a3fca34cc"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/prop-prompt/SKILL.ko.md",
+      "bytes": 3583,
+      "sha256": "4362154ac5617274d10d6b97b9e036b490d377812a347e20b7864eeb823f2a6b"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/prop-prompt/SKILL.md",
+      "bytes": 2642,
+      "sha256": "6494849db5282c1bc2cf0cf26cadd33d41eed2151218094d625bf5f78602de5d"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/scene-prompt/SKILL.en.md",
+      "bytes": 4638,
+      "sha256": "140f710894bbea72653aca573e1ebfb6cfbb78530cb203d6141e6630c7d9ab04"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/scene-prompt/SKILL.ja.md",
+      "bytes": 5546,
+      "sha256": "18e81e016aac1a764eebba6bf06233e6732680f7bb2cc44c195b1b69b0902305"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/scene-prompt/SKILL.ko.md",
+      "bytes": 5001,
+      "sha256": "748f2070d688b4411280cf3f276cf229c15e7bc2ff34ed34fc0d920c5889d7c8"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/scene-prompt/SKILL.md",
+      "bytes": 3758,
+      "sha256": "4d68ca6a1594040f6c41d018197c20c68c41a6b3689e2c21a5429b50588115c3"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/video-prompt/SKILL.en.md",
+      "bytes": 5923,
+      "sha256": "4b579d40214dded6427e0757f2af89e6d5c572d50f16388ee25dac086284951b"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/video-prompt/SKILL.ja.md",
+      "bytes": 7275,
+      "sha256": "a2150f135c64087dfc33f9e8f0d95c9c0d5f92d05b8e30580a9a0436e3acb209"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/video-prompt/SKILL.ko.md",
+      "bytes": 6645,
+      "sha256": "28fc00d9e699a53d0cbb93435bc50d77492d6ecebd4cfe74ba49d33e31e1645e"
+    },
+    {
+      "path": "source-reference/skills/prompt-generator/video-prompt/SKILL.md",
+      "bytes": 4586,
+      "sha256": "3edd42dcaeca201a3a5dacf5d226c6ba00c0dd14170d4f812c48ba05594000d9"
+    },
+    {
+      "path": "source-reference/skills/script-rewriter/SKILL.en.md",
+      "bytes": 2348,
+      "sha256": "46943f78ed264462c19943ad63c2479ef91c57937d7662791435df6886989a4d"
+    },
+    {
+      "path": "source-reference/skills/script-rewriter/SKILL.ja.md",
+      "bytes": 2827,
+      "sha256": "7547d4fa9831a69757d4b817837ba2e1e0141160dd744d273793ccd4d3d58179"
+    },
+    {
+      "path": "source-reference/skills/script-rewriter/SKILL.ko.md",
+      "bytes": 2540,
+      "sha256": "226de3e6efb84c9ab383746c6bea302514a45bf515189a2dd3db3e5ab661e070"
+    },
+    {
+      "path": "source-reference/skills/script-rewriter/SKILL.md",
+      "bytes": 1848,
+      "sha256": "a970313bac2b24e8f8a96cbbd57daabd0e9aa255b8b4e672da5587d2e9f31b80"
+    },
+    {
+      "path": "source-reference/skills/storyboard-breaker/SKILL.en.md",
+      "bytes": 6080,
+      "sha256": "72f46c1e4423a7746da16af566554ecb5a6243e789bec741e887fd1f985bcbf4"
+    },
+    {
+      "path": "source-reference/skills/storyboard-breaker/SKILL.ja.md",
+      "bytes": 7408,
+      "sha256": "0e2ed0f30dec15d9d406f1075f9d68004126a4a4f2024742d3aed0bf616adcb2"
+    },
+    {
+      "path": "source-reference/skills/storyboard-breaker/SKILL.ko.md",
+      "bytes": 6699,
+      "sha256": "298a386321306d91af65b5b401a959d7133ba7d30c182f6da885e08affa8baeb"
+    },
+    {
+      "path": "source-reference/skills/storyboard-breaker/SKILL.md",
+      "bytes": 4966,
+      "sha256": "06c59a947480254b87a844cc83e8bdd2da3a19ff351a2e9ed1ea4eea5afa82a0"
+    },
+    {
+      "path": "templates/PROJECT-BIBLE.md",
+      "bytes": 1271,
+      "sha256": "bc6a9525859d4dcd81117ac19b6371e5902ef5e031e085207280ca87b584decf"
+    },
+    {
+      "path": "templates/QA.md",
+      "bytes": 704,
+      "sha256": "dbb312d33c74b8c7c93eea4e83c60a6b4880030ab782bb08e2514b9bf0ca3618"
+    },
+    {
+      "path": "workflows/short-drama-pipeline.md",
+      "bytes": 2436,
+      "sha256": "39ca3b7dd46d592cf3cc947d82f9814c07b981abc56b5756703edf67e7868903"
+    },
+    {
+      "path": "workspace/prompts/extractor.en.md",
+      "bytes": 4798,
+      "sha256": "cf744b612e87542ead5c9ce6e967b5af85b7ba92cdb4dcd6ab91c2033a4c7aca"
+    },
+    {
+      "path": "workspace/prompts/extractor.ja.md",
+      "bytes": 5953,
+      "sha256": "bbc456f91ea4df1b312a242b2b8951d6d9662eba714c98e9f39d045a932d34ca"
+    },
+    {
+      "path": "workspace/prompts/extractor.ko.md",
+      "bytes": 5430,
+      "sha256": "6faa7dd048dc5e05e0c46ab924158d8c996ce26720895425bf9a2a587dcabc0c"
+    },
+    {
+      "path": "workspace/prompts/extractor.md",
+      "bytes": 4235,
+      "sha256": "07a2b43655ab922775354fae8708c812599fcb7a131716e072c0fe03702b5680"
+    },
+    {
+      "path": "workspace/prompts/prompt_generator.en.md",
+      "bytes": 3185,
+      "sha256": "ab86dfb546839852b4545e2f7a2db3a733c5a61c4239d341abd1a5c185ce1b8b"
+    },
+    {
+      "path": "workspace/prompts/prompt_generator.ja.md",
+      "bytes": 3993,
+      "sha256": "3a0bf3623e115bc51c8ba01009941dedca2af7be86e568661dd7bd1a62a07dcf"
+    },
+    {
+      "path": "workspace/prompts/prompt_generator.ko.md",
+      "bytes": 3695,
+      "sha256": "15e2d2fda5bdf56815c7d1eec35e6c45bafead3a9a85069d68f61cd0df4d850d"
+    },
+    {
+      "path": "workspace/prompts/prompt_generator.md",
+      "bytes": 3102,
+      "sha256": "b40d73d5ff01035f260480aa7b23368fe9bbf29852acfd5b987007adb37f3789"
+    },
+    {
+      "path": "workspace/prompts/script_rewriter.en.md",
+      "bytes": 762,
+      "sha256": "19311311860c652f157804f864a029cf66ad4b8375fdd13239dbd2bd9ccd278f"
+    },
+    {
+      "path": "workspace/prompts/script_rewriter.ja.md",
+      "bytes": 939,
+      "sha256": "e97c392c7a0114ff93c4c0a8c159df677e4e4b087109da4a919f49d480c853e1"
+    },
+    {
+      "path": "workspace/prompts/script_rewriter.ko.md",
+      "bytes": 870,
+      "sha256": "ab7d67cdfb3d7d0b3f657c857630ed685419b4a88a188f2c5fa856abcba49818"
+    },
+    {
+      "path": "workspace/prompts/script_rewriter.md",
+      "bytes": 1020,
+      "sha256": "9933c5e6cde30b7615e55a5c01dc27f4e9d368e9e7da693fef2f1147359c640e"
+    },
+    {
+      "path": "workspace/prompts/storyboard.en.md",
+      "bytes": 5991,
+      "sha256": "4e4d1c30a9b3288026a0c9a410d0dccabc2743e0027b5807115173e729842cd0"
+    },
+    {
+      "path": "workspace/prompts/storyboard.ja.md",
+      "bytes": 7424,
+      "sha256": "54668e9feb95a4ad608c64b4d5f79b711b4918201759aa1d4b7cad4668dba5de"
+    },
+    {
+      "path": "workspace/prompts/storyboard.ko.md",
+      "bytes": 6994,
+      "sha256": "95cfb22ac519e687bcb4a38b94fb5ac7cebcabe6be069422062076a5419d74cc"
+    },
+    {
+      "path": "workspace/prompts/storyboard.md",
+      "bytes": 5280,
+      "sha256": "0ee38945152aa3f7377eaba1b86832ea49256584dbab99672c667f801fa3d13b"
+    }
+  ]
+}
